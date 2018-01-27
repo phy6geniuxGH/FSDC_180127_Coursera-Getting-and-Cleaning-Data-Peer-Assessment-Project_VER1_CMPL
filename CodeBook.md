@@ -5,14 +5,16 @@ This Code Book acts as a guide for the Final_Data_Set_of_Means.txt
 
 ## IDs
 
-subject - from 1 - 30: Shows the participant's ID number
-activity - from 1 - 6
-1 - Walking
-2 - Walking Upstairs
-3 - Walking Downstairs
-4 - Sitting
-5 - Standing
-6 - Laying
+### subject (from 1 - 30)
+Shows the participant's ID number
+
+### activity (from 1 - 6)
+* 1 - Walking
+* 2 - Walking Upstairs
+* 3 - Walking Downstairs
+* 4 - Sitting
+* 5 - Standing
+* 6 - Laying
 
 ## Variable Names (Measurements)
 
