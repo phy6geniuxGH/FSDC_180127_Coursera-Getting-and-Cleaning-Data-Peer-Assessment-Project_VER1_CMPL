@@ -1,4 +1,5 @@
-#Code Book
+
+###Code Book
 
 This Code Book acts as a guide for the Final_Data_Set_of_Means.txt
 
@@ -15,12 +16,12 @@ activity - from 1 - 6
 
 ## Variable Names (Measurements)
 
-tBodyAccMeanX
-tBodyAccMeanY
-tBodyAccMeanZ
-tBodyAccStdX
-tBodyAccStdY
-tBodyAccStdZ
+ * tBodyAccMeanX
+  tBodyAccMeanY
+  tBodyAccMeanZ
+  tBodyAccStdX
+  tBodyAccStdY
+  tBodyAccStdZ
 tGravityAccMeanX
 tGravityAccMeanY
 tGravityAccMeanZ
